@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\Documents\Visual Studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\Arial.xnb</Output>
+      <Time>2011-12-06T10:42:44.8878777+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MaineMenuStartScore.png</Source>
+      <Name>MaineMenuStartScore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\MaineMenuStartScore.xnb</Output>
+      <Time>2011-12-12T08:58:24.9590032+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuTitle.png</Source>
+      <Name>MainMenuTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\MainMenuTitle.xnb</Output>
+      <Time>2011-12-12T08:58:24.9756139+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuText.png</Source>
+      <Name>MainMenuText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\MainMenuText.xnb</Output>
+      <Time>2011-12-12T09:09:09.0245046+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tmpStar.png</Source>
+      <Name>tmpStar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\tmpStar.xnb</Output>
+      <Time>2011-12-12T10:52:44.5836802+01:00</Time>
+    </Item>
+    <Item>
+      <Source>nyan-cat.png</Source>
+      <Name>nyan-cat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\nyan-cat.xnb</Output>
+      <Time>2011-12-12T11:21:19.6394918+01:00</Time>
+    </Item>
+    <Item>
+      <Source>star.png</Source>
+      <Name>star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\star.xnb</Output>
+      <Time>2011-12-13T08:56:35.4405277+01:00</Time>
+    </Item>
+    <Item>
+      <Source>arcenciel.png</Source>
+      <Name>arcenciel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\arcenciel.xnb</Output>
+      <Time>2011-12-13T10:08:23.2063969+01:00</Time>
+    </Item>
+    <Item>
+      <Source>nyan.wav</Source>
+      <Name>nyan</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\nyan.xnb</Output>
+      <Time>2011-12-13T11:04:29.4217148+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tmpEarth.png</Source>
+      <Name>tmpEarth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\tmpEarth.xnb</Output>
+      <Time>2011-12-19T09:07:27.8221676+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tmpSky.png</Source>
+      <Name>tmpSky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\tmpSky.xnb</Output>
+      <Time>2011-12-19T15:02:30.6772153+01:00</Time>
+    </Item>
+    <Item>
+      <Source>evil-cat.png</Source>
+      <Name>evil-cat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\evil-cat.xnb</Output>
+      <Time>2011-12-19T16:24:35.1070314+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.png</Source>
+      <Name>GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\GameOver.xnb</Output>
+      <Time>2012-01-16T09:04:24.5600635+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scores.png</Source>
+      <Name>scores</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\scores.xnb</Output>
+      <Time>2012-01-16T09:27:33.0005726+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{CE3DE21D-FE32-4E5F-BF18-218DA7D03AD6}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-CopterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Administrateur\documents\visual studio 2010\Projects\Nyan-Copter\Nyan-Copter\Nyan-Copter\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-12-05T12:36:34.6027053+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
